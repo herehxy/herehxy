@@ -52,7 +52,6 @@
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herehxy&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herehxy&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## Keep in touch
