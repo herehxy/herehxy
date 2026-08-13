@@ -51,8 +51,8 @@
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=herehxy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=herehxy&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herehxy&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herehxy&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## Keep in touch
