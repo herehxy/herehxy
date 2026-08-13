@@ -27,31 +27,23 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/herehxy/BuyForU">BuyForU</a></h3>
       <p>Java 项目，探索面向实际场景的后端服务与业务建模。</p>
       <a href="https://github.com/herehxy/BuyForU"><img src="https://img.shields.io/github/stars/herehxy/BuyForU?style=flat-square&color=6E56CF" alt="BuyForU stars" /></a>
       <a href="https://github.com/herehxy/BuyForU"><img src="https://img.shields.io/github/last-commit/herehxy/BuyForU?style=flat-square" alt="BuyForU last commit" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/herehxy/XDUDU">XDUDU</a></h3>
       <p>Rust 项目，面向 Agent 场景的实验性实现。</p>
       <a href="https://github.com/herehxy/XDUDU"><img src="https://img.shields.io/github/stars/herehxy/XDUDU?style=flat-square&color=6E56CF" alt="XDUDU stars" /></a>
       <a href="https://github.com/herehxy/XDUDU"><img src="https://img.shields.io/github/last-commit/herehxy/XDUDU?style=flat-square" alt="XDUDU last commit" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/herehxy/helloAgents">helloAgents</a></h3>
-      <p>Python 项目，用于探索 Agent 开发与自动化工作流。</p>
-      <a href="https://github.com/herehxy/helloAgents"><img src="https://img.shields.io/github/stars/herehxy/helloAgents?style=flat-square&color=6E56CF" alt="helloAgents stars" /></a>
-      <a href="https://github.com/herehxy/helloAgents"><img src="https://img.shields.io/github/last-commit/herehxy/helloAgents?style=flat-square" alt="helloAgents last commit" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/herehxy/coding-interview-university">Coding Interview University</a></h3>
-      <p>系统化的计算机科学与软件工程学习路线。</p>
-      <a href="https://github.com/herehxy/coding-interview-university"><img src="https://img.shields.io/github/stars/herehxy/coding-interview-university?style=flat-square&color=6E56CF" alt="Coding Interview University stars" /></a>
-      <a href="https://github.com/herehxy/coding-interview-university"><img src="https://img.shields.io/github/last-commit/herehxy/coding-interview-university?style=flat-square" alt="Coding Interview University last commit" /></a>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/herehxy/shortlink">shortlink</a></h3>
+      <p>Spring Cloud 短链接服务，支持生成、跳转、分组和回收站。</p>
+      <a href="https://github.com/herehxy/shortlink"><img src="https://img.shields.io/github/stars/herehxy/shortlink?style=flat-square&color=6E56CF" alt="shortlink stars" /></a>
+      <a href="https://github.com/herehxy/shortlink"><img src="https://img.shields.io/github/last-commit/herehxy/shortlink?style=flat-square" alt="shortlink last commit" /></a>
     </td>
   </tr>
 </table>
@@ -61,14 +53,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=herehxy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=herehxy&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=herehxy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herehxy&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ## Keep in touch
