@@ -48,12 +48,6 @@
   </tr>
 </table>
 
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herehxy&theme=tokyonight" alt="GitHub statistics" />
-</p>
-
 ## Keep in touch
 
 如果你也在做后端、Agent 或开源项目，欢迎通过 [GitHub](https://github.com/herehxy) 或 [邮件](mailto:hexiaoyu0918@gmail.com) 交流。
