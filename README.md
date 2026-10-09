@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+xiaoyu+%F0%9F%91%8B;Backend+%7C+Java+%7C+Rust+%7C+Python;Build+useful+things%2C+one+commit+at+a+time." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+hajim109+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%7C+Rust+%7C+Python;Build+useful+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+<br/>
 
 <p>
-  <a href="https://github.com/herehxy"><img src="https://img.shields.io/badge/GitHub-herehxy-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="mailto:hajim10918@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E56CF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=herehxy&style=flat-square&color=6E56CF" alt="Profile views" />
+  <a href="https://github.com/herehxy"><img src="https://img.shields.io/badge/GitHub-herehxy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hajim10918@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=herehxy&style=for-the-badge&color=6E56CF" alt="Profile views" />
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6c421c39.gif" width="100%"/>
 
 ## About me
 
