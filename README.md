@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/herehxy"><img src="https://img.shields.io/badge/GitHub-herehxy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:hajim10918@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=herehxy&style=for-the-badge&color=6E56CF" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=herehxy" alt="Profile views" />
 </p>
 
 </div>
