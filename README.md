@@ -44,10 +44,10 @@
       <a href="https://github.com/herehxy/XDUDU"><img src="https://img.shields.io/github/last-commit/herehxy/XDUDU?style=flat-square" alt="XDUDU last commit" /></a>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/herehxy/shortlink">shortlink</a></h3>
-      <p>Spring Cloud 短链接服务，支持生成、跳转、分组和回收站。</p>
-      <a href="https://github.com/herehxy/shortlink"><img src="https://img.shields.io/github/stars/herehxy/shortlink?style=flat-square&color=6E56CF" alt="shortlink stars" /></a>
-      <a href="https://github.com/herehxy/shortlink"><img src="https://img.shields.io/github/last-commit/herehxy/shortlink?style=flat-square" alt="shortlink last commit" /></a>
+      <h3><a href="https://github.com/herehxy/HRAgent">HRAgent</a></h3>
+      <p>Python 项目，本机运行的招聘智能体，覆盖简历判档、归岗到面试归档全流程。</p>
+      <a href="https://github.com/herehxy/HRAgent"><img src="https://img.shields.io/github/stars/herehxy/HRAgent?style=flat-square&color=6E56CF" alt="HRAgent stars" /></a>
+      <a href="https://github.com/herehxy/HRAgent"><img src="https://img.shields.io/github/last-commit/herehxy/HRAgent?style=flat-square" alt="HRAgent last commit" /></a>
     </td>
   </tr>
 </table>
